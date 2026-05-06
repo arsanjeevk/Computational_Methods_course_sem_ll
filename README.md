@@ -13,14 +13,14 @@ This repository contains Python implementations of numerical methods used in phy
 - Differentiation and Integration
 - Time Integration Techniques
 - Fourier Transform
+- Random walk
+- Ising Model
+- Advection Diffusion
+- Heat Diffusion
+- Brownian Motion Analysis
 
 # Project 
-Damped Harmonic Oscillator
-Part 1
-Given System is solved for the undergiven cases:
--Underdamped
--Critically Damped
--Overdamped
+Damped Harmonic Oscillator with time dependent forces and stochastic forces
 
 ## Tools Used
 
